@@ -1,0 +1,175 @@
+body {
+    font-family: candara;
+    background-color: black;
+}
+
+div {
+    display: flex;
+}
+
+.boring {
+    color: white;
+    margin-top: -20px;
+    font-size: 15px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+header {
+    background-color: black;
+}
+
+.mangalib {
+    color: white;
+}
+
+nav {
+    background-color: black;
+    justify-content: space-around;
+    display: flex;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+p {
+    color: white;
+}
+
+.n {
+    text-decoration: none;
+    font-size: 25px;
+    font-family: trebuchet ms;
+    justify-content: space-around;
+    margin: 10px;
+    color: white;
+}
+
+.n:hover {
+    color: orange;
+    transform: scale(1.1);
+    transition: 0.1s ease-out;
+}
+
+.w {
+    border-radius: 15px;
+    margin: 25px 25px 5px 25px;
+}
+
+.e {
+    margin-left: 73px;
+}
+
+.to-read {
+    border-radius: 15px;
+    opacity: 1;
+}
+
+.manga {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 1px;
+}
+
+.t {
+    margin-left: 76px;
+}
+
+.y {
+    margin-left: 45px;
+}
+
+.to-read:hover {
+    color: orange;
+    opacity: 0.6;
+    transform: scale(1.1);
+    transition: 0.2s ease-out;
+}
+
+.u {
+    margin-left: 60px;
+}
+
+.i {
+    margin-left: 60px;
+}
+
+.o {
+    margin-left: 37px;
+}
+
+.p {
+    margin-left: 40px;
+}
+
+.a {
+    margin-left: 23px;
+}
+
+.s {
+    margin-left: 39px;
+}
+
+.d {
+    margin-left: 50px;
+}
+
+.f {
+    margin-left: 55px;
+}
+
+.g {
+    margin-left: 80px;
+}
+
+.h {
+    margin-left: 70px;
+}
+
+.k {
+    margin-left: 45px;
+}
+
+.l {
+    margin-left: 35px;
+}
+
+.z {
+    margin-left: 30px;
+}
+
+.x {
+    margin-left: 35px;
+}
+
+.c {
+    margin-left: 55px;
+}
+
+.v {
+    margin-left: 70px;
+}
+
+.b {
+    margin-left: 65px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 10px;
+}
+
+span {
+    color: orange;
+    margin-left: 30px;
+}
+
+.to-read:focus {
+    transform: scale(0.8);
+}
